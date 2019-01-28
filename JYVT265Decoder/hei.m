@@ -11,6 +11,6 @@
 @implementation hei
 -(void)hahahahha
 {
-    NSLog(@"%s",__func__);
+    NSLog(@"哈哈哈哈哈");
 }
 @end
